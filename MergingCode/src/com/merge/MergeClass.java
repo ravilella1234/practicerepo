@@ -10,6 +10,7 @@ public class MergeClass {
 		c=a+b;
 		
 		System.out.println("Addition of A & B is  :" + c);
+		System.out.println("Addition");
 
 	}
 
