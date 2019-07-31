@@ -11,6 +11,7 @@ public class MergeClass {
 		
 		System.out.println("Substraction of A & B is  :" + c);
 
+		
 	}
 
 }
