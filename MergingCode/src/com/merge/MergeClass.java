@@ -9,7 +9,9 @@ public class MergeClass {
 		//Substraction
 		c=a-b;
 		
+
 		System.out.println("Substraction of A & B is  :" + c);
+
 
 	}
 
