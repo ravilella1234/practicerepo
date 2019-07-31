@@ -6,11 +6,12 @@ public class MergeClass {
 	{
 		int a=10, b=20, c=0;
 		
-		//Addition
-		c=a+b;
+		//Substraction
+		c=a-b;
 		
-		System.out.println("Addition of A & B is  :" + c);
-		System.out.println("Addition");
+
+		System.out.println("Substraction of A & B is  :" + c);
+
 
 	}
 
