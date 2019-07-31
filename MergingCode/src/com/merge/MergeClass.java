@@ -10,7 +10,8 @@ public class MergeClass {
 		c=a-b;
 		
 		System.out.println("Substraction of A & B is  :" + c);
-
+		System.out.println("Substraction code");
+		
 	}
 
 }
